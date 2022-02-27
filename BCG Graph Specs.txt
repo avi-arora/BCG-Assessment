@@ -1,0 +1,9 @@
+Pie chart of customer by region. 
+
+Popular fuel type - some bar chart
+
+income range vs premium 
+
+collision claim vs bodily injury vs personal injury protection vs property damage 
+per year graph (line curve) 
+
